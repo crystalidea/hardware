@@ -14,7 +14,7 @@
 
 - Primary build: Ryzen 5900x, RTX 4070 Ti, 32GB RAM, 10Gbit Ethernet [Detailed specs](https://be.pcpartpicker.com/list/fcPrZw)
 - Secondary build: Ryzen 5700x, RTX 3060 Ti, 16 GB RAM [Detailed specs](https://be.pcpartpicker.com/list/fhL6k9)
-- [Lenovo Slim 7 Pro X](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7-pro-x-14-inch-amd/len101l0011) laptop with Ryzen 6800HS, RTX 3050, 16 GB RAM, 1TB SSD
+- [Lenovo Slim 7 Pro X](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7-pro-x-14-inch-amd/len101l0011) laptop with Ryzen 6800HS, 120Hz 2k display, RTX 3050, 16 GB RAM, 1TB SSD
 
 #### Screens
 
