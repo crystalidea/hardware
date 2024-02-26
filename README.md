@@ -24,9 +24,8 @@
 
 #### Network equipment
 
-- [Ubiquiti Dream Router](https://eu.store.ui.com/eu/en/collections/unifi-dream-router)
-
-- [Ubiquiti Flex 10 10GBe](https://store.ui.com/us/en/collections/unifi-switching-utility-10-gbps-ethernet/products/unifi-flex-xg)
+- [Ubiquiti Dream Router](https://ui.com/us/en/cloud-gateways/dream-router)
+- [Ubiquiti Flex 10 10GBe](https://techspecs.ui.com/unifi/switching/unifi-flex-xg)
 - NAS [Synology DiskStation DS1621xs+](https://global.synologydownload.com/download/Document/Hardware/DataSheet/DiskStation/21-year/DS1621xs+/enu/Synology_DS1621xs_Plus_Data_Sheet_enu.pdf), 8GB RAM, 6x2TB SSD (RAID F1) + 2x2TB NVMe (RAID 1), 10Gbit Ethernet
 
 ### Miscellaneous
