@@ -7,7 +7,7 @@
 - [Mac Mini 2024](https://www.apple.com/lae/mac-mini/specs/) M4 base model, 16GB RAM 256GB SSD
 - [Mac Mini 2018](https://support.apple.com/kb/SP782?locale=en_US) Core i5 8500, 16GB RAM, 512 GB SSD
 - [Mac mini 2011](https://support.apple.com/kb/sp632?locale=en_US) with AMD Radeon HD 6630M 16GB RAM, 500GB SSD
-- [iMac 5k 2019](https://support.apple.com/kb/SP790?locale=en_US) 40GB RAM Core i5 8600, Radeon Pro 575X
+- [iMac 5k 2019](https://support.apple.com/kb/SP790?locale=en_US) 32GB RAM Core i5 8600, Radeon Pro 575X
 - [Mac Pro 2013](https://support.apple.com/kb/sp697?locale=en_US) (trash can) 8 Core E5-1680 v2, 2xD700, 64 GB RAM, 1 TB SSD
 
 ### Windows computers
