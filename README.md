@@ -2,7 +2,7 @@
 ### Mac computers
 
 - [Mac Studio M1 Ultra](https://support.apple.com/kb/SP865?locale=en_US), 64GB RAM, 1TB SSD, 10Gbit Ethernet
-- [MacBook Pro 2023 M3 Pro 16"](https://support.apple.com/kb/SP899?locale=en_US) with 18 GB RAM and 1TB SSD
+- [MacBook Pro 2024 M4 14"](https://support.apple.com/en-us/121552) with 16 GB RAM and 1TB SSD
 - [Mac Mini 2018](https://support.apple.com/kb/SP782?locale=en_US) Core i5 8500, 16GB RAM, 512 GB SSD
 - [iMac 5k 2019](https://support.apple.com/kb/SP790?locale=en_US) 40GB RAM Core i5 8600, Radeon Pro 575X
 - [Mac Pro 2013](https://support.apple.com/kb/sp697?locale=en_US) (trash can) 8 Core E5-1680 v2, 2xD700, 64 GB RAM, 1 TB SSD
