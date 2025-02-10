@@ -1,7 +1,6 @@
 # Our hardware
 ### Mac computers
 
-- [Mac Studio M1 Ultra](https://support.apple.com/kb/SP865?locale=en_US), 64GB RAM, 1TB SSD, 10Gbit Ethernet
 - [MacBook Pro 2024 M4 14"](https://support.apple.com/en-us/121552) with 16 GB RAM and 1TB SSD
 - [Mac Mini 2024](https://www.apple.com/mac-mini/specs/) Apple M4, 16 GB RAM, 256 GB SSD
 - [Mac Mini 2018](https://support.apple.com/kb/SP782?locale=en_US) Core i5 8500, 16GB RAM, 512 GB SSD
