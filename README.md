@@ -16,7 +16,6 @@
 
 - Dual [LG 27GL850-B](https://www.lg.com/us/monitors/lg-27gl850-b-gaming-monitor) 27" 144Ghz 1440p (Windows)
 - [Apple Studio Display](https://www.apple.com/studio-display/)
-- Custom 5k monitor made from iMac 5k [Forum thread](https://forums.macrumors.com/threads/diy-5k-monitor-success.2253100/)
 
 ### Network equipment
 
