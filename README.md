@@ -10,7 +10,6 @@
 ### Windows computers
 
 - Primary build: Ryzen 9950x, RTX 5080 16GB, 64GB RAM, 10Gbit Ethernet [Detailed specs](https://be.pcpartpicker.com/list/vFMXrv)
-- Secondary build: Ryzen 7600x3d, RTX 4070 Ti Super 16GB, 32 GB RAM [Detailed specs](https://be.pcpartpicker.com/list/H39ngB)
 - [Lenovo Slim 7 Pro X](https://www.lenovo.com/us/en/p/laptops/lenovo/lenovo_slim_series/lenovo-slim-7-pro-x-14-inch-amd/len101l0011) laptop with Ryzen 6800HS, 120Hz 2k display, RTX 3050, 16 GB RAM, 1TB SSD
 
 ### Screens
